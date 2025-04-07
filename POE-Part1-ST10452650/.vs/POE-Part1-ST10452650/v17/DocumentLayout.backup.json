@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:views\\home\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\views\\home\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:views\\home\\bookings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\views\\home\\venues.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:views\\home\\venues.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:resource.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\poe-part1-st10452650.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:poe-part1-st10452650.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\poe-part1-st10452650\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BB8C08-2564-4C7E-9500-E84EC89D0CE1}|POE-Part1-ST10452650.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:37:35.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Resource.resx",
+              "RelativeDocumentMoniker": "Resource.resx",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Resource.resx",
+              "RelativeToolTip": "Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-02T21:13:55.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T20:47:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POE-Part1-ST10452650.csproj",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\POE-Part1-ST10452650.csproj",
+              "RelativeDocumentMoniker": "POE-Part1-ST10452650.csproj",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\POE-Part1-ST10452650.csproj",
+              "RelativeToolTip": "POE-Part1-ST10452650.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T20:29:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T19:48:30.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venues.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Venues.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Venues.cshtml",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Venues.cshtml",
+              "RelativeToolTip": "Views\\Home\\Venues.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T19:47:26.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Events.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Events.cshtml",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Events.cshtml",
+              "RelativeToolTip": "Views\\Home\\Events.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T19:46:55.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bookings.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Bookings.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Bookings.cshtml",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Views\\Home\\Bookings.cshtml",
+              "RelativeToolTip": "Views\\Home\\Bookings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T19:46:22.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\POE-Part1-ST10452650\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:42:50.604Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
