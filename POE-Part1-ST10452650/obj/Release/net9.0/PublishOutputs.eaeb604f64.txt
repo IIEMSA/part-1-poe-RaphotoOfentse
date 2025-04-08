@@ -1,7 +1,0 @@
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\POE-Part1-ST10452650.exe
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\appsettings.json
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\POE-Part1-ST10452650.dll
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\POE-Part1-ST10452650.deps.json
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\POE-Part1-ST10452650.runtimeconfig.json
-C:\Users\rapho\Downloads\docs\School\Cloud dev\POE\POE-Part1-ST10452650\obj\Release\net9.0\PubTmp\Out\POE-Part1-ST10452650.pdb

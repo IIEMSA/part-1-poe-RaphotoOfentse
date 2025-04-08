@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\models\\eventeasedbconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:models\\eventeasedbconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|c:\\users\\rapho\\downloads\\docs\\school\\cloud dev\\poe\\eventeasedb\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\migrations\\202504081855332_createbookingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:migrations\\202504081855332_createbookingstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717B614-F08B-4B17-8D86-839FD99381C6}|EventEaseDB.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202504081855332_CreateBookingsTable.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Migrations\\202504081855332_CreateBookingsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\202504081855332_CreateBookingsTable.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Migrations\\202504081855332_CreateBookingsTable.cs",
+              "RelativeToolTip": "Migrations\\202504081855332_CreateBookingsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:55:41.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:28:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T18:11:21.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAK4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:10:49.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:54:57.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:52:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:19:03.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-08T14:36:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:16:36.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:14:49.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventEaseDBConsole.cs",
+              "DocumentMoniker": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Models\\EventEaseDBConsole.cs",
+              "RelativeDocumentMoniker": "Models\\EventEaseDBConsole.cs",
+              "ToolTip": "C:\\Users\\rapho\\Downloads\\docs\\School\\Cloud dev\\POE\\EventEaseDB\\Models\\EventEaseDBConsole.cs",
+              "RelativeToolTip": "Models\\EventEaseDBConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:03:07.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
